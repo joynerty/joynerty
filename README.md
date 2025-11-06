@@ -1,5 +1,3 @@
-tyler_cover
-
 [![cover](https://github.com/joynerty/joynerty/blob/main/tyler_cover.png)](https://github.com/joynerty?tab=repositories)
 
 <h3 align="center">Cloud Architect</h3>
