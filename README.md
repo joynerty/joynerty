@@ -2,10 +2,6 @@
 
 <h3 align="center">Cloud Architect</h3>
 
-<p align=center>
-<!-- No social media links available in resume -->
-</p>
-
 <p align=left>
 As a highly experienced IT professional with over 14 years of combined experience across Network, Cyber, Cloud, and Systems Engineering, I specialize in designing and implementing secure, scalable cloud infrastructures. I’ve led end-to-end deployments and automation of AWS, Azure, and VMware environments using Infrastructure as Code (IaC) tools like Terraform and GitLab CI/CD.  
 
