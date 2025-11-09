@@ -40,4 +40,4 @@ With deep hands-on expertise in technologies including Nutanix, RedHat, SCCM, Ca
 <h2 align="left">📊 Github Stats 📊</h2>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joynerty&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joynerty&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joynerty&show_icons=true&theme=radical&langs_count=8)
